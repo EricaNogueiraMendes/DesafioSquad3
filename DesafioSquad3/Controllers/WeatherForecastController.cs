@@ -13,7 +13,7 @@ namespace DesafioSquad3.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Verao", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Verao", "Outono", "Primavera", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
